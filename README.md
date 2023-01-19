@@ -40,12 +40,21 @@
 ----
 
  `파이썬으로 시작하는 데이터분석`과 함께 보면 도움이 되는 데이터 분석 자료입니다.(자료는 계속 업데이트 될 예정입니다.)
+ 
+**파이썬 기초**
+- [파이썬 주요 함수 정리(pdf)](https://docs.google.com/spreadsheets/d/e/2PACX-1vSktoVe7rWj1XDf-VEOC27W0AnvsQq0JfE2Py_QUQotPZToOyWwX7O9KiAJYLOdYxob36PmQJz6jfsj/pub?gid=760094320&single=true&output=pdf)
+- [파이썬 기본 연습문제](https://zhining.tistory.com/6)
 
+**numpy, pandas**
 - [결측치 처리, 이상치 처리, 중복데이터 처리, 데이터 통합(concat, merge), 집계데이터(groupby)](https://github.com/zzhining/public_data_analysis/blob/main/w02_data_preprocessing.ipynb)
 - [집계 데이터(crosstab, groupby), 이산화(qcut) 스케일변환(z-score, min-max), 원핫인코딩](https://github.com/zzhining/public_data_analysis/blob/main/w03_data_preprocessing.ipynb)
+
+**데이터 시각화**
 - [seaborn, matplotlib을 활용한 데이터 시각화](https://github.com/zzhining/public_data_analysis/blob/main/w04_data_visualization.ipynb)
 - [plotly를 활용한 데이터 시각화](https://github.com/zzhining/public_data_analysis/blob/main/w05_data_visualization.ipynb)
 - [지도 시각화(plotly, folium)](https://github.com/zzhining/public_data_analysis/blob/main/w06_map_data_visualization.ipynb)
+
+**EDA**
 - [서울 지하철 데이터 탐색적 분석](https://github.com/zzhining/public_data_analysis/blob/main/w07_seoul_subway_data_eda.ipynb)
 
 
