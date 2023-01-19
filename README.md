@@ -39,7 +39,7 @@
 ## 함께보면 좋은 자료
 ----
 
- `파이썬으로 시작하는 데이터분석`의 내용을 이해했다면, 함께 보면 도움이 되는 데이터 분석 자료입니다.(자료는 계속 업데이트 될 예정입니다.)
+ `파이썬으로 시작하는 데이터분석`과 함께 보면 도움이 되는 데이터 분석 자료입니다.(자료는 계속 업데이트 될 예정입니다.)
 
 - [결측치 처리, 이상치 처리, 중복데이터 처리, 데이터 통합(concat, merge), 집계데이터(groupby)](https://github.com/zzhining/public_data_analysis/blob/main/w02_data_preprocessing.ipynb)
 - [집계 데이터(crosstab, groupby), 이산화(qcut) 스케일변환(z-score, min-max), 원핫인코딩](https://github.com/zzhining/public_data_analysis/blob/main/w03_data_preprocessing.ipynb)
