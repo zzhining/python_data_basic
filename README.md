@@ -4,7 +4,9 @@
 # 파이썬으로 시작하는 데이터 분석
 ## 코드 목차
 ### 1장. 파이썬 시작하기
-- [주피터 노트북 사용하기](https://github.com/zzhining/python_data_basic/blob/main/1%E1%84%8C%E1%85%A1%E1%86%BC/01_jupyter_notebook.ipynb)
+- [주피터 노트북 사용하기](https://github.com/zzhining/python_data_basic/blob/main/1%EC%9E%A5/01_jupyter_notebook.ipynb)
+- [주피터 노트북 커스텀](https://john-analyst.medium.com/%EC%A3%BC%ED%94%BC%ED%84%B0-%EB%85%B8%ED%8A%B8%EB%B6%81%EC%9D%98-%EA%BF%80%ED%8C%81%EB%93%A4-4a40d406f07e)
+- [주피터 노트북 Nbextensions TOC](https://bio-info.tistory.com/14)
 
 ### 2장. 파이썬 기본 문법 익히기
 - [2.1 변수](https://github.com/zzhining/python_data_basic/blob/main/2%EC%9E%A5/02_01_%EB%B3%80%EC%88%98.ipynb)
