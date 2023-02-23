@@ -22,7 +22,7 @@
 ### 3장. 데이터 분석을 위한 파이썬 응용 문법
 - [3.1 numpy](https://github.com/zzhining/python_data_basic/blob/main/3%EC%9E%A5/03_01_numpy.ipynb)
 - [3.2 pandas](https://github.com/zzhining/python_data_basic/blob/main/3%EC%9E%A5/03_02_pandas.ipynb)
-- 3.3 삼성전자주가데이터- [[CODE]](https://github.com/zzhining/python_data_basic/blob/main/3%EC%9E%A5/03_03_%EC%8B%A4%EC%8A%B5-%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%EC%A3%BC%EA%B0%80%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%88%98%EC%A0%95.ipynb),[[SKELETON]](https://github.com/zzhining/python_data_basic/blob/main/03_03_%EC%8B%A4%EC%8A%B5_%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%EC%A3%BC%EA%B0%80%EB%8D%B0%EC%9D%B4%ED%84%B0_skeleton.ipynb)
+- 3.3 삼성전자주가데이터- [[CODE]](https://github.com/zzhining/python_data_basic/blob/main/3%EC%9E%A5/03_03_%EC%8B%A4%EC%8A%B5-%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%EC%A3%BC%EA%B0%80%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%88%98%EC%A0%95.ipynb),[[SKELETON]](https://github.com/zzhining/python_data_basic/blob/main/3%EC%9E%A5/03_03_%EC%8B%A4%EC%8A%B5_%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%EC%A3%BC%EA%B0%80%EB%8D%B0%EC%9D%B4%ED%84%B0_skeleton.ipynb)
 
 
 ### 4장. 데이터 시각화
