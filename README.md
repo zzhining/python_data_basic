@@ -28,7 +28,7 @@
 ### 4장. 데이터 시각화
 - [4.1 seaborn](https://github.com/zzhining/python_data_basic/blob/main/4%EC%9E%A5/04_01_seaborn.ipynb)
 - [4.2 matplotlib]()
-- [4-3 데이터 시각화 실습:국민건강보험공단 건강검진정보](https://github.com/zzhining/python_data_basic/blob/main/4%EC%9E%A5/04_03_%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%8B%9C%EA%B0%81%ED%99%94%EC%8B%A4%EC%8A%B5.ipynb)
+- [4-3 데이터 시각화 실습:국민건강보험공단 건강검진정보](https://github.com/zzhining/python_data_basic/blob/main/4%EC%9E%A5/04_03_%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%8B%9C%EA%B0%81%ED%99%94%EC%8B%A4%EC%8A%B5.ipynb): [[Download Data]](https://drive.google.com/file/d/1psBTJRzMhK8SiKUzdsdkL58BCHOIZAUG/view?usp=share_link)
 
 
 ### 5장. 데이터 수집
